@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/scss/ionic.app.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/curriculum.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/cubeEtPaveDroit6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/cylindre6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/droitesDuPlan6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/fractions6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule1.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule3.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule4.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule7.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/introductionModule8.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule1.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule3.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule4.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule7.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/matriceModule8.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/nombresDecimauxArithmetiques6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/nombresDecimauxRelatifs5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/nombresDecimauxRelatifs6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/parallelogrammes6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/polygones5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/prismeDroit5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/proportionnalite5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/proportionnalite6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/reperagePointDroite5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/reperagePointDroite6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/reperagePointQuadrillage5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/segments6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/sphere5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/statistiques5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/symetriesCentrales6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/symetriesOrthogonales6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/triangles6.html" charset="UTF-8" />
+  </component>
+</project>

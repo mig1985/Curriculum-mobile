@@ -1,0 +1,65 @@
+.fully {
+  background: url("img/Accueil.png");
+  background-attachment: fixed;
+  background-size: cover;
+  height: 110%;
+  display: table;
+  width: 100%;
+  padding: 1rem;
+
+}
+
+.mbr {
+  display: table-cell;
+  height: 50%;
+  position: relative;
+  vertical-align: middle;
+}
+
+.voile{
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 10px;
+}
+
+blockquote {
+  line-height: 1.6;
+  color: #8a8a8a;
+  display: block;
+  border-left: 1px solid #cacaca;
+}
+
+.list-cercle {
+  list-style-type: square;
+  margin-left: 1.25rem;
+}
+
+.list-carre {
+  list-style-type: disc;
+  margin-left: 1.25rem;
+}
+
+.list-decimal {
+  list-style-type: decimal;
+  margin-left: 1.25rem;
+}
+
+.warning{
+  background-color: #ffae00;
+  padding: 5px;
+  color: white;
+}
+
+.panneauVertClair {
+  background: rgba(0, 255, 127, 0.06);
+  padding: 0.3rem;
+}
+
+.lateral-transparent .item {
+  border-left-style: none;
+  border-right-style: none;
+}
+
+body{
+  font-family: "Roboto", "Helvetica Neue", "Segoe UI", sans-serif;
+}
